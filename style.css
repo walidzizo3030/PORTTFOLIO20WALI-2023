@@ -54,3 +54,13 @@ a{
     color: black;
     
 }
+
+.erro {
+    color: red;
+    font-weight: bold;
+}
+
+.sucesso {
+    color: green;
+    font-weight: bold;
+}
